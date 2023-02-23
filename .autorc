@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Niemand3333",
+  "repo": "container-2clfcvc",
+  "name": "Niemand3333",
+}
